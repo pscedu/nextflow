@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/github/license/pscedu/nextflow)
 
 # nextflow
-<img src="https://nextflow.io/img/home-dsl2.png" />
+<img src="https://nextflow.io/img/home-dsl2.png" width="50%" />
 
 Scripts and recipe for [nextflow](https://nextflow.io/).
 
